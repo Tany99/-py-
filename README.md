@@ -21,3 +21,6 @@ class SegmentTree:
     """
     >>> import operator
     >>> num_arr = SegmentTree([2, 1, 5, 3, 4], operator.add)
+
+
+print('9+4659')
